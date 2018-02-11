@@ -1,4 +1,11 @@
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+.green-background {
+  background-color: hsl(142, 100, 27);
+}
 
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+.cream {
+  color: hsl(39, 16, 93);
+}
 
+.blue {
+  color: hsl(211, 20, 91);
+}
