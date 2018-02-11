@@ -1,11 +1,11 @@
 .green-background {
-  background-color: hsl(142, 100, 27);
+  background-color: rgb(0, 71, 27);
 }
 
 .cream {
-  color: hsl(39, 16, 93);
+  color: rgb(238, 225, 198);
 }
 
 .blue {
-  color: hsl(211, 20, 91);
+  color: rgb(184, 207, 233);
 }
